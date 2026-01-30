@@ -1,0 +1,20 @@
+# MNIST CNN Classification Project - Requirements
+# Deep Learning Framework
+tensorflow>=2.10.0
+
+# Data Processing & Numerical Computing
+numpy>=1.21.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning Utilities
+scikit-learn>=1.0.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Model Visualization (requires graphviz system installation)
+pydot>=1.4.0
